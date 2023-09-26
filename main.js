@@ -11,6 +11,7 @@ function mostrarOpciones(valueFormulario) {
 
         seccionRegistro.classList.add("seccionRegistro");
         
+        
     } else if (valueFormulario === "registro") {
 
         seccionRegistro.classList.remove("seccionRegistro");
